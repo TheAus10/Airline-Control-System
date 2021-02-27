@@ -1,7 +1,7 @@
 # Airline-Control-System
 
 ### Overview
-This is a C++ project for an airline control system that handles all planes, crew members, and flights going through the airline. The system uses STL, inheritance, runtime polymorphism, virtual functions, file I/O, and classes. 
+This is a C++ project for an airline control system that handles all planes, crew members, and flights going through the airline. The system uses STL, inheritance, runtime polymorphism, virtual functions, file I/O, and classes. Application was developed in a Linux environment.
 
 ### Design
 There are 3 classes that give the specifications for planes, crew members, and flights. 
